@@ -27,12 +27,31 @@ Whether it's quantizing a Vision Transformer, deploying a multi-agent RAG pipeli
 
 ---
 
-## 🛠️ Tech Stack
 
-**Core AI & ML:** `PyTorch` · `TensorFlow` · `Scikit-learn` · `HuggingFace`  
-**GenAI & Agents:** `LangChain` · `LangGraph` · `RAG` · `LoRA` · `Function Calling`  
-**Full Stack & DevOps:** `FastAPI` · `Next.js` · `TypeScript` · `Docker` · `AWS` · `CI/CD`  
-**Tooling:** `FAISS` · `Pinecone` · `Flan-T5` · `CLIP` · `ONNX` · `BERT`
+
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
+  <!-- AI Frameworks -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FC0?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
+
 
 ---
 
