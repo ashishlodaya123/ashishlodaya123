@@ -76,11 +76,22 @@ Whether it's quantizing a Vision Transformer, deploying a multi-agent RAG pipeli
 
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements & Certifications
 
-- 🥇 Finalist – **Smart India Hackathon 2023** *(Top 15% out of 5,000+ teams)*  
-- 🧪 **DevOps Foundation Certified** – CI/CD, Agile Infra  
-- 🧠 **GenAI + Agentic AI Researcher** – Vision Transformer optimization, RAG pipelines
+- 🏆 **Smart India Hackathon 2023 – Finalist**  
+  Top 15% of 5,000+ teams nationwide for solving an advanced AI challenge.
+
+- ✅ **DevOps Foundation Certified**  
+  Skilled in CI/CD pipelines, Agile Infrastructure, and scalable deployment strategies.
+
+- 🧠 **AI Research Contributor**  
+  Published in IEEE Xplore and JEET Journal for work on quantized Vision Transformers and AI automation workflows.
+
+- 🚀 **Recognized for Agentic AI Innovation**  
+  Developed autonomous, multi-agent GenAI systems with 92%+ task resolution accuracy.
+
+- 📉 **Model Optimization Expert**  
+  Achieved 66% model size reduction + 2.1x performance uplift via quantization and ONNX deployment.
 
 ---
 
